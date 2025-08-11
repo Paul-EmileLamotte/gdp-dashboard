@@ -32,16 +32,11 @@ st.set_page_config(
 
 # Configuration Apple API (VOS VRAIES CLÉS ADMIN)
 APPLE_CONFIG = {
-    'key_id': '272HW96Y3K',
-    'issuer_id': 'bd5d33a5-f002-4e1e-93b2-0742864f26fa',
-    'app_id': '6444854134',
-    'private_key': '''-----BEGIN PRIVATE KEY-----
-MIGTAgEAMBMGByqGSM49AgEGCCqGSM49AwEHBHkwdwIBAQQgXvTVZl0eMHN1o0VF
-axBDUHlbYIU63kn1CzcLzABv4kCgCgYIKoZIzj0DAQehRANCAAQ67tsQWs2i4wQz
-PQzHVHr+NUSpFw1w3aOriiMD+C1pBiGB1PVP91+5Y2k6DXnRP9NcACpHtk34k7no
-z6Hed0PH
------END PRIVATE KEY-----''',
-    'vendor_number': '90123456'
+    'key_id': '',
+    'issuer_id': '',
+    'app_id': '',
+    'private_key': '''''',
+    'vendor_number': ''
 }
 
 # === ENUMS ET CONSTANTES APPLE API ===
